@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+# Site settings
+title:  Gingko Blog
+SEOTiltie:  白菓的博客  |  Gingko Blog
+header-img: img/home-bg.jpg
+email: 2676731778@qq.com
+
+# SNS settings
+
