@@ -22,7 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[https://github.com/Gingko17/gingko17.github.com/blob/main/_src/index.md]
+[https://github.com/Gingko17/gingko17.github.com/blob/main/_src/index.md](url)
+
 [Link](url) and ![Image](src)
 ```
 
